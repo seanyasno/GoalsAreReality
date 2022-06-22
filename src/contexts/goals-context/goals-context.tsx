@@ -22,7 +22,7 @@ export const GoalsProvider: React.FC<PropsWithChildren> = (props) => {
             achievement: {
                 verb: 'lose',
                 noun: 'weight',
-            }
+            },
         },
     ]);
 
