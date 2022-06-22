@@ -23,6 +23,7 @@ export const GoalsProvider: React.FC<PropsWithChildren> = (props) => {
                 verb: 'lose',
                 noun: 'weight',
             },
+            description: '5kg',
         },
     ]);
 
